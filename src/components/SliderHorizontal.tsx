@@ -7,7 +7,7 @@ interface Props{
     movie: Result[],
     title: String
 }
-
+//54465162
 export const SliderHorizontal = ({ movie, title } : Props) => {
     
     return (
